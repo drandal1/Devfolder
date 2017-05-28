@@ -1,0 +1,27 @@
+* {
+  font-family:, Arial, sans-serif;
+}
+body {  margin: 0 auto;
+  max-width: 50em;
+  line-height: 1.5;
+ padding: 4em 1em;
+ background-color: #263d36;
+
+}
+
+
+h1 {
+  color: orange;
+}
+
+body {
+color: skyblue; }
+
+p, li {
+  font-size: 18px;
+}
+
+
+a {
+  text-decoration: none;
+}
